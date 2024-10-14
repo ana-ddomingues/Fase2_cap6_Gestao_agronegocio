@@ -13,7 +13,7 @@ Cap 6 - Python e além
 Grupo 32
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/">Ana Beatriz Duarte Domingues</a>
+- <a href="https://www.linkedin.com/in/ana-domingues12/">Ana Beatriz Duarte Domingues</a>
 - <a href="https://www.linkedin.com/in/jrsilva051/">Junior Rodrigues da Silva</a>
 
 ## 👩‍🏫 Professores:
